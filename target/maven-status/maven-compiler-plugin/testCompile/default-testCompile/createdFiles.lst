@@ -1,0 +1,4 @@
+com\ketineni\user\controller\UserControllerTest.class
+com\ketineni\user\config\TestConfig.class
+com\ketineni\user\repository\UserRepositoryTest.class
+com\ketineni\user\UserCrudApplicationTests.class

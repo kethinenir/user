@@ -1,0 +1,4 @@
+com\ketineni\user\entity\User.class
+com\ketineni\user\repository\UserRepository.class
+com\ketineni\user\controller\UserController.class
+com\ketineni\user\UserCrudApplication.class
